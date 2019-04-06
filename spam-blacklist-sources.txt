@@ -1,1 +1,2 @@
 ﻿https://raw.githubusercontent.com/piwik/referrer-spam-blacklist/master/spammers.txt
+https://raw.githubusercontent.com/nbrightproject/spamsafelists/master/spam-blacklist.txt

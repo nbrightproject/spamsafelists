@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/nbrightproject/spamsafelists/master/bot-blacklist.txt
